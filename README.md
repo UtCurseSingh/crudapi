@@ -4,4 +4,4 @@
 
 In terminal, do:
 1> npm install
-2> npm run start
+2> node server.js
